@@ -1,0 +1,1 @@
+web: java -jar target/keys-app-core-1.0.jar
